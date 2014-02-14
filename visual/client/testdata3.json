@@ -1,0 +1,5 @@
+{"nodes":[
+        {"title" : "Title Article One",    "url" : "www.article-one.com",    "unit" : "kg", "group" : 1},
+        {"title" : "Title Two",    "url" : "www.article-two.com",    "unit" : "s", "group" : 1}],
+   "links" : [{"source":0,"target":1,"value":1}
+   ]}

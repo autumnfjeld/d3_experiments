@@ -1,0 +1,27 @@
+{"nodes":[
+        {"title" : "Article One",    "url" : "www.article-one.com",    "unit" : "kg", "group" : 1},
+        {"title" : "Article Two",    "url" : "www.article-two.com",    "unit" : "s", "group" : 1},
+        {"title" : "Article Three",  "url" : "www.article-three.com",  "unit" : "m", "group" : 1},
+        {"title" : "Article  Four",   "url" : "www.article-four.com",   "unit" : "N", "group" : 3},
+        {"title" : "Article Five",   "url" : "www.article-five.com",   "unit" : "m/s", "group" : 2},
+        {"title" : "Article Six",    "url" : "www.article-six.com",    "unit" : "kg", "group" : 1},
+        {"title" : "Article Seven",  "url" : "www.article-seven.com",  "unit" : "s", "group" : 1},
+        {"title" : "Article Eight",  "url" : "www.article-eight.com",  "unit" : "m", "group" : 1},
+        {"title" : "Article Nine",   "url" : "www.article-nine.com",   "unit" : "N", "group" : 3},
+        {"title" : "Article Ten",    "url" : "www.article-ten.com",    "unit" : "m/s", "group" : 2},
+        {"title" : "Article Eleven",   "url" : "www.article-11.com",    "unit" : "kg", "group" : 1},
+        {"title" : "Article Twelve",    "url" : "www.article-12.com",  "unit" : "m", "group" : 1},
+        {"title" : "Article Thirteen", "url" : "www.article-13.com",   "unit" : "N", "group" : 3},
+        {"title" : "Article Fourteen", "url" : "www.article-14.com",    "unit" : "m/s", "group" : 2},
+        {"title" : "Article Fifteen",  "url" : "www.article-15.com",    "unit" : "kg", "group" : 1}
+    ],
+   "links" : [
+        {"source":0,"target":1,"value":100}, {"source":0,"target":2,"value":10},
+        {"source":0,"target":3,"value":30},  {"source":0,"target":4,"value":100},
+        {"source":0,"target":5,"value":100}, {"source":0,"target":6,"value":20},
+        {"source":0,"target":11,"value":100}, {"source":0,"target":12,"value":100},
+        {"source":0,"target":7,"value":100}, {"source":2,"target":8,"value":10},
+        {"source":3,"target":10,"value":20}, {"source":4,"target":11,"value":10},
+        {"source":5,"target":9,"value":20}, {"source":6,"target":13,"value":50},
+        {"source":6,"target":14,"value":80},  {"source":7,"target":14,"value":100}
+    ]}
