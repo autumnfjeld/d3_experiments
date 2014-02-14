@@ -1,0 +1,28 @@
+ body {
+      background-color: #7A86D6;
+    }
+
+    .link {
+      stroke:  #000000;
+    }
+
+    .node text {
+      pointer-events: none;
+      font: 14px sans-serif;
+    }
+
+    text.label {
+      fill: #363F7A;
+    }
+
+    circle {
+      fill: #ccc;
+      stroke: #333;
+      stroke-width: 1.5px;
+    }
+
+    title {
+      fill: #B4B8D4;
+
+    }
+
